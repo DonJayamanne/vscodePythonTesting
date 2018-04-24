@@ -1,0 +1,6 @@
+# Framework requirements
+watson-framework
+
+# Project requirements
+pytest
+pytest-cov

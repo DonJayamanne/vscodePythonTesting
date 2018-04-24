@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "interpreters"
+		},
+		{
+			"path": "pipenvEnv"
+		},
+		{
+			"path": "pyEnvEnv"
+		},
+		{
+			"path": "dbg"
+		},
+		{
+			"path": "wkspaceWithModules"
+		},
+		{
+			"path": "intellisenseTest"
+		},
+		{
+			"path": "linterTests"
+		},
+		{
+			"path": "intellisenseTest2"
+		},
+		{
+			"path": "djangoSample"
+		},
+		{
+			"path": "flaskTest"
+		},
+		{
+			"path": "testingFolder"
+		},
+		{
+			"path": "watsonTests"
+		},
+		{
+			"path": "pyramidTest"
+		},
+		{
+			"path": "dummy"
+		}
+	],
+	"settings": {}
+}

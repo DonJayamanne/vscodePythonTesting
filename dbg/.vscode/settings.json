@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/don/.local/share/virtualenvs/pipenvEnv-ksgJgkhH/bin/python",
+    "python.envFile": "${workspaceFolder}/.myenv"
+}

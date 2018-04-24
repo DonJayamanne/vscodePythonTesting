@@ -1,0 +1,3 @@
+[run]
+source = sample1
+omit = sample1/test*

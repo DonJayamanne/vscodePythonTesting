@@ -1,0 +1,19 @@
+{
+    "python.pythonPath": "${workspaceFolder}/.env/bin/python",
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "*_test.py"
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.pyTestArgs": [
+        "tests"
+    ],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestArgs": [
+        "tests"
+    ],
+    "python.unitTest.nosetestsEnabled": true
+}

@@ -1,0 +1,5 @@
+{
+  "tests/one_test.py::FailingTests::test_failure": true,
+  "tests/one_test.py::FailingTests::test_failure_still": true,
+  "tests/one_test.py::test_failure": true
+}
