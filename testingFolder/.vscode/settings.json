@@ -7,7 +7,7 @@
         "-p",
         "*_test.py"
     ],
-    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.unittestEnabled": true,
     "python.unitTest.pyTestArgs": [
         "tests"
     ],
