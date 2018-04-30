@@ -105,3 +105,4 @@ ENV/
 
 # Don - Ignore all environments
 .venv*/**
+*/node_modules/**
