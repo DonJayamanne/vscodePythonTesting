@@ -41,6 +41,9 @@
 		},
 		{
 			"path": "dummy"
+		},
+		{
+			"path": "cythonExceptions"
 		}
 	],
 	"settings": {}
