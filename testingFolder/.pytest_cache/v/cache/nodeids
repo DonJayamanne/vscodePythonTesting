@@ -1,4 +1,0 @@
-[
-  "tests/one_test.py::FailingTests::test_failure",
-  "tests/one_test.py::FailingTests::test_failure_still"
-]
