@@ -38,6 +38,17 @@
             "logToFile": true
         },
         {
+            "name": "Python Exp File Old",
+            "type": "pythonExperimental",
+            "request": "launch",
+            "pythonPath": "/Users/donjayamanne/Desktop/Development/PythonStuff/vscodePythonTesting/dbg/venvold/bin/python",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "redirectOutput": true,
+            "logToFile": true
+        },
+        {
             "name": "Python File",
             "type": "python",
             "request": "launch",
